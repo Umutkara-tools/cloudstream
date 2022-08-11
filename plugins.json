@@ -1,0 +1,41 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Umutkara-tools/cloudstream",
+        "fileSize": 17285,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Hexated",
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 11,
+        "internalName": "HDFilmCehennemi",
+        "description": "T\u00fcrkiye'nin en h\u0131zl\u0131 hd film izleme sitesi",
+        "url": "https://raw.githubusercontent.com/Umutkara-tools/cloudstream/builds/HDFilmCehennemi.cs3",
+        "name": "HDFilmCehennemi"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://jetfilmizle.de&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Umutkara-tools/cloudstream",
+        "fileSize": 13747,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "keyiflerolsun"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 10,
+        "internalName": "JetFilmizle",
+        "description": "Binlerce Film \u0130zleme Se\u00e7ene\u011fiyle En \u0130yi Film \u0130zleme Sitesi",
+        "url": "https://raw.githubusercontent.com/Umutkara-tools/cloudstream/builds/JetFilmizle.cs3",
+        "name": "JetFilmizle"
+    }
+]
