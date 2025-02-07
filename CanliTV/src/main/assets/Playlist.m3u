@@ -2,7 +2,7 @@
 
 # * » TRT « * #
 #EXTINF:-1 tvg-name="Meclis TV" tvg-language="Turkish" tvg-country="TR" tvg-id="TBMM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Seal_of_the_Turkish_Parliament_%28T%C3%BCrkiye_B%C3%BCy%C3%BCk_Millet_Meclisi%29.svg/1024px-Seal_of_the_Turkish_Parliament_%28T%C3%BCrkiye_B%C3%BCy%C3%BCk_Millet_Meclisi%29.svg.png" group-title="TRT",Meclis TV
-https://meclistv-live.ercdn.net/meclistv/meclistv_720p.m3u8
+https://meclistv-live.ercdn.net/meclistv/meclistvtest_720p.m3u8
 
 #EXTINF:-1 tvg-name="TRT 1" tvg-language="Turkish" tvg-country="TR" tvg-id="TRT_1" tvg-logo="https://cdn-i.pr.trt.com.tr/trttv/w750/h750/q100/10660277.png" group-title="TRT",TRT 1
 https://trt.daioncdn.net/trt-1/master_720p.m3u8?app=web
